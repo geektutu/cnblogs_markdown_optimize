@@ -1,4 +1,5 @@
 # 博客园定制样式
+
 ## 1.写在前面
 > * [博客园](http://www.cnblogs.com/gzdaijie/)自带的markdown样式较为简洁，因此想定制博客样式。
 > * style.css文件修改自[huizhong](https://github.com/huizhong/cnblogs-markdown-css)，特表示感谢。
