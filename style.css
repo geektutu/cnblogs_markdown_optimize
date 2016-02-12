@@ -424,6 +424,8 @@
   font-size: 85%;
   background-color: rgba(0,0,0,0.04);
   border-radius: 3px;
+  border: none !important;
+  display: inline-block;
 }
 
 .cnblogs-markdown code:before,
@@ -434,13 +436,17 @@
 
 /*only for syntaxhighlighter */
 /*--start--*/
+.syntaxhighlighter table td.code {
+  width:95% !important; 
+}
+
 .cnblogs-markdown .syntaxhighlighter code {
   font-family: "Consolas","Bitstream Vera Sans Mono","Courier New",Courier,monospace!important;
   padding: 0 !important;
-  border: none !important;
   border-radius: 0 !important;
   background-color: transparent !important;
 }
+
 .cnblogs-markdown .syntaxhighlighter code:before,
 .cnblogs-markdown .syntaxhighlighter code:before {
   letter-spacing: -0.5em;
