@@ -436,7 +436,7 @@
 
 /*only for syntaxhighlighter */
 /*--start--*/
-.syntaxhighlighter table td.code {
+.cnblogs-markdown .syntaxhighlighter table td.code {
   width:95% !important; 
 }
 
