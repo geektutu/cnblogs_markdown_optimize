@@ -9,12 +9,15 @@
 
 > * 自定义博客园markdown渲染样式
 > * 博客园markdown代码没有行号，使用`SyntaxHighlighter`插件重新渲染代码部分，详见[footer.js](./footer.js)，`SyntaxHighlighter`插件博客园已支持。
+> * 更多变化可以参考[我的博客](http://www.cnblogs.com/gzdaijie/p/5187171.html)
 
 ### 示例如下
 
 ![示例1](./image/preview_refer.jpg)
 
 ![示例2](./image/preview_java_code.jpg)
+
+
 
 ## 3.使用方法
 
