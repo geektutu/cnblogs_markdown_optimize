@@ -665,3 +665,31 @@
   position: relative;
   border-color: #4183c4;
 }
+
+.diggit{
+  background-color: white;
+  background-position: 20px 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  bottom: 0;
+  box-shadow: 0 0 5px gray;
+  margin-right: 5%;
+  margin-bottom: 20px;
+  padding: 20px;
+  position: fixed;
+  right: 0;
+  z-index: 9999;
+}
+
+/*****
+ * for other parts
+ *****/
+
+.buryit,
+.diggword{
+  display:none;
+}
+
+.cnblogs-markdown blockquote p {
+  margin: 0px !important;
+}
